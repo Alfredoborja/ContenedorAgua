@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TUbTl5bFwbAHww/g+H3oP4agn3gbGkcv9T6Y5TNxpu5wJtKskyiFNfxewIYEultb+VB5bYL6CLjr2aQMGnggUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aborja\\source\\repos\\ContenedorAgua\\ContenedorAgua\\ContenedorAgua.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aborja\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512",
+    "C:\\Users\\aborja\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

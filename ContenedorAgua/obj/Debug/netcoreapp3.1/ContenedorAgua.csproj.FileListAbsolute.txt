@@ -1,0 +1,14 @@
+C:\Users\aborja\source\repos\ContenedorAgua\ContenedorAgua\bin\Debug\netcoreapp3.1\ContenedorAgua.exe
+C:\Users\aborja\source\repos\ContenedorAgua\ContenedorAgua\bin\Debug\netcoreapp3.1\ContenedorAgua.deps.json
+C:\Users\aborja\source\repos\ContenedorAgua\ContenedorAgua\bin\Debug\netcoreapp3.1\ContenedorAgua.runtimeconfig.json
+C:\Users\aborja\source\repos\ContenedorAgua\ContenedorAgua\bin\Debug\netcoreapp3.1\ContenedorAgua.runtimeconfig.dev.json
+C:\Users\aborja\source\repos\ContenedorAgua\ContenedorAgua\bin\Debug\netcoreapp3.1\ContenedorAgua.dll
+C:\Users\aborja\source\repos\ContenedorAgua\ContenedorAgua\bin\Debug\netcoreapp3.1\ContenedorAgua.pdb
+C:\Users\aborja\source\repos\ContenedorAgua\ContenedorAgua\obj\Debug\netcoreapp3.1\ContenedorAgua.csproj.AssemblyReference.cache
+C:\Users\aborja\source\repos\ContenedorAgua\ContenedorAgua\obj\Debug\netcoreapp3.1\ContenedorAgua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aborja\source\repos\ContenedorAgua\ContenedorAgua\obj\Debug\netcoreapp3.1\ContenedorAgua.AssemblyInfoInputs.cache
+C:\Users\aborja\source\repos\ContenedorAgua\ContenedorAgua\obj\Debug\netcoreapp3.1\ContenedorAgua.AssemblyInfo.cs
+C:\Users\aborja\source\repos\ContenedorAgua\ContenedorAgua\obj\Debug\netcoreapp3.1\ContenedorAgua.csproj.CoreCompileInputs.cache
+C:\Users\aborja\source\repos\ContenedorAgua\ContenedorAgua\obj\Debug\netcoreapp3.1\ContenedorAgua.dll
+C:\Users\aborja\source\repos\ContenedorAgua\ContenedorAgua\obj\Debug\netcoreapp3.1\ContenedorAgua.pdb
+C:\Users\aborja\source\repos\ContenedorAgua\ContenedorAgua\obj\Debug\netcoreapp3.1\ContenedorAgua.genruntimeconfig.cache
